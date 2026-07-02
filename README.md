@@ -39,7 +39,7 @@ TODO
 ├── API                     # Scripts for API  
 ├── models                  # Generated aritfact (Not versioned)
 ├── train                   # ML tools and scripts            
-├── test                    # Automated tests 
+├── tests                   # Automated tests 
 ├── README.md
 └── .gitignore
 ```
