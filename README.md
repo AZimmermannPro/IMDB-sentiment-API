@@ -31,7 +31,7 @@ python -m venv .venv
 ### **Install dependencies**
 
 ```
-pip install scikit-learn==1.9.0 pandas==3.0.3 joblib==1.5.3
+pip install -r requirements.txt
 ```
 
 ---
