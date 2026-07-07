@@ -18,11 +18,21 @@ git clone https://github.com/AZimmermannPro/IMDB-sentiment-API.git
 
 ### **Generate and activate venv**
 
-Todo
+```
+python -m venv .venv
+```
+
+**Mac/Linux**  
+`source .venv/bin/activate`
+
+**Windows**  
+`.venv\Scripts\activate`
 
 ### **Install dependencies**
 
-Todo
+```
+pip install scikit-learn==1.9.0 pandas==3.0.3 joblib==1.5.3
+```
 
 ---
 
